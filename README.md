@@ -32,6 +32,7 @@
 
 ## ✨ AI 時代，由你啟航！✨
 
+![image](https://github.com/user-attachments/assets/62391a13-cd39-4bab-b582-43baec853e1f)
+
 ![image](https://github.com/user-attachments/assets/590753be-ff32-4818-bb8e-f264302740ea)
 
-![image](https://github.com/user-attachments/assets/62391a13-cd39-4bab-b582-43baec853e1f)
