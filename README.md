@@ -2,6 +2,8 @@
 
 ## 🌟 歡迎加入 AI 旅程！🚀🤖
 
+![image](https://github.com/user-attachments/assets/590753be-ff32-4818-bb8e-f264302740ea)
+
 ### 🚀 一場探索人工智慧的精彩冒險！
 
 歡迎來到 Spring 2025 AI人工智慧之旅 (AI Journey)！✨ 這將是一場 沉浸式、實作導向 的學習旅程，帶領你進入 人工智慧 (AI)、機器學習 (ML)、深度學習 (DL)、提示工程 (Prompt Engineering) 的最前沿世界！🌍💡
@@ -34,5 +36,5 @@
 
 ![image](https://github.com/user-attachments/assets/62391a13-cd39-4bab-b582-43baec853e1f)
 
-![image](https://github.com/user-attachments/assets/590753be-ff32-4818-bb8e-f264302740ea)
+
 
