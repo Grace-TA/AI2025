@@ -190,10 +190,16 @@
 
 ### 5. **AI 推薦系統：” 我現在人在新北市國立臺北大學，請在網上尋找並推薦新北市的前五大美食, 包括店名, 電話與地址”**
 
-在新北市，以下是五家值得一試的美食餐廳，包含店名、電話與地址：
+Here is the list of the top five recommended restaurants in **New Taipei City**, presented in a **table format**:
 
-businesses_map{"name":"川牛木石亭 新店中正店","location":"新北市, 台灣","description":"以炙燒雪花牛丼飯聞名，牛肉鮮嫩多汁，炙烤香氣十足，深受饕客喜愛。","cite":"turn0search1"}{"name":"超人鱸魚湯","location":"新北市, 台灣","description":"以鮮美的鱸魚湯和柴燒麥芽豬腳聞名，湯頭清甜，豬腳Q彈有勁，回訪率極高。","cite":"turn0search1"}{"name":"青立方 Greenery Cube Café","location":"新北市, 台灣","description":"提供濃郁香氣的牛肝菌野菇燉飯，米飯軟硬適中，菇香四溢，令人驚喜。","cite":"turn0search1"}{"name":"海貓亭 うみねこ亭","location":"新北市, 台灣","description":"提供多樣拉麵選擇，麵條可選軟硬度，配料豐富，湯頭濃郁，深受拉麵愛好者青睞。","cite":"turn0search1"}{"name":"呼穀壽喜燒","location":"新北市, 台灣","description":"提供多樣湯底選擇，食材新鮮，環境舒適，服務親切，是聚餐的好選擇。","cite":"turn0search1"}
+| **Rank** | **Restaurant Name** | **Specialty Dish / Cuisine** | **Address** | **Phone Number** |
+|----------|--------------------|----------------------------|--------------|-----------------|
+| 1 | **川牛木石亭 新店中正店** (Kawa Ushi Moku Stone Pavilion) | Grilled Wagyu Beef Bowl | New Taipei City, Taiwan | (Check Google Maps) |
+| 2 | **超人鱸魚湯** (Superman Sea Bass Soup) | Sea Bass Soup & Malted Pork Knuckles | New Taipei City, Taiwan | (Check Google Maps) |
+| 3 | **青立方 Greenery Cube Café** | Porcini Mushroom Risotto | New Taipei City, Taiwan | (Check Google Maps) |
+| 4 | **海貓亭 うみねこ亭** (Umineko Tei) | Japanese Ramen (Rich Broth) | New Taipei City, Taiwan | (Check Google Maps) |
+| 5 | **呼穀壽喜燒** (Hugo Sukiyaki) | Sukiyaki Hotpot with Premium Meat Selection | New Taipei City, Taiwan | (Check Google Maps) |
 
-這些餐廳各具特色，無論是喜愛日式料理、台式小吃或是咖啡廳，都能在新北市找到滿足味蕾的好去處。 
+🔹 *For exact locations and contact details, please refer to Google Maps or the official websites of the respective restaurants.* 🍽️✨
 
 
