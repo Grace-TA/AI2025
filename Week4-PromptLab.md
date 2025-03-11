@@ -93,6 +93,170 @@ The weather is nice today; I'd like to take a walk in the park.
 
 # Level 2: Lab11 - Lab20
 
+Here are educationally structured labs continuing sequentially from Lab 11, carefully highlighting essential prompt engineering skills, followed by detailed responses to each prompt:
 
+---
+
+### Lab 11: **Style Adaptation (Journalistic vs Expository Writing)**
+
+**Prompt:**  
+「請以新聞報導的風格撰寫一篇介紹ChatGPT的文章，再以說明文風格撰寫一篇。」
+
+**Educational Response:**  
+
+**新聞報導風格：**  
+「美國科技公司OpenAI推出最新AI產品ChatGPT，引起全球熱潮。該聊天機器人能迅速產生自然且人性化的回覆，已被廣泛應用於教育、客服、創意寫作等多個領域。專家表示，此技術可能徹底改變未來人類與科技互動的方式。」
+
+**說明文風格：**  
+「ChatGPT是由OpenAI開發的先進語言模型，透過深度學習訓練，能理解並生成近似人類的文字內容。其主要應用在自動問答、文本生成、語言翻譯等領域，有效提高資訊處理效率。」
+
+---
+
+### Lab 12: **Dramatic Tone and Narrative Emphasis**
+
+**Prompt:**  
+「請用戲劇化的語氣描述AI技術對未來社會的影響。」
+
+**Educational Response:**  
+「想像一下，一個被人工智慧主宰的世界正緩緩展開：人類的工作被機器搶走，醫療與交通奇蹟般地進步，甚至藝術與文學作品都由AI自動生成。我們將迎來的是科技的黃金時代，抑或是人性被挑戰的未知深淵？」
+
+---
+
+### Lab 13: **Table Generation and Formatting**
+
+**Prompt:**  
+「請生成一個包含常見的5種水果及其價格的表格。」
+
+**Educational Response:**  
+
+| 水果名稱 | 價格（新台幣） |
+| -------- | ------------ |
+| 蘋果     | 30 元/顆     |
+| 香蕉     | 10 元/根     |
+| 橘子     | 25 元/顆     |
+| 葡萄     | 80 元/盒     |
+| 芒果     | 50 元/顆     |
+
+---
+
+### Lab 14: **Structured List and Stepwise Explanation**
+
+**Prompt:**  
+「請列出學習編程的五個步驟，每個步驟用一句話描述。」
+
+**Educational Response:**  
+
+1. **選擇語言：** 從一種簡單且廣泛使用的語言開始學習，例如 Python。
+2. **掌握基礎概念：** 學習編程的核心概念，例如變數、資料類型、條件判斷、迴圈。
+3. **動手練習：** 通過完成小型專案或練習題，加強對程式碼的理解。
+4. **閱讀他人程式碼：** 學習優秀開發者如何撰寫並組織程式碼，增進程式碼素養。
+5. **持續進階學習：** 學習更複雜的主題，如資料結構、演算法或專案實作，持續提升技能。
+
+---
+
+### Lab 15: **Markdown Outline Creation**
+
+**Prompt:**  
+「請生成一個Markdown格式的大綱，主題為『如何進行有效的團隊合作』。」
+
+**Educational Response:**  
+
+```markdown
+# 如何進行有效的團隊合作
+
+## 一、建立清晰的共同目標
+- 確定團隊任務與方向
+- 制定明確的目標與截止日期
+
+## 二、明確角色與責任分工
+- 根據成員的專長分配工作
+- 避免責任重疊與模糊不清
+
+## 三、加強溝通技巧
+- 定期舉行會議或進行溝通
+- 鼓勵開放且積極的回饋文化
+
+## 四、有效管理衝突
+- 建立正面處理意見分歧的方法
+- 鼓勵彼此理解與妥協
+
+## 五、評估與調整
+- 定期檢討團隊合作效能
+- 及時調整策略以達成最佳績效
+```
+
+---
+
+### Lab 16: **Automated Data Generation and Formatting (CSV)**
+
+**Prompt:**  
+「請自動生成一個包含年度銷售數據的報告，並將其格式化為CSV格式。數據包括月份和銷售金額。」
+
+**Educational Response (CSV範例)：**  
+
+```csv
+月份,銷售金額(NTD)
+一月,120000
+二月,95000
+三月,134000
+四月,110000
+五月,145000
+六月,132000
+七月,158000
+八月,142000
+九月,160000
+十月,175000
+十一月,180000
+十二月,195000
+```
+
+---
+
+### Lab 17: **FAB (Feature-Advantage-Benefit) Marketing Technique**
+
+**Prompt:**  
+「請使用FAB行銷法為『蘋果筆記本電腦』撰寫產品描述。」
+
+**Educational Response:**  
+- **特點(Feature)：** 配備Apple獨家晶片、高解析度Retina顯示器。
+- **優勢(Advantage)：** 運行速度更快，畫面更清晰，電池續航力更強。
+- **利益(Benefit)：** 提升工作效率和視覺體驗，讓您隨時隨地輕鬆完成任務，實現無縫的創造力表現。
+
+---
+
+### Lab 18: **Authoritative and Professional Tone**
+
+**Prompt:**  
+「請用專業權威的語氣撰寫一篇介紹機器學習的文章。」
+
+**Educational Response:**  
+機器學習（Machine Learning）為人工智慧領域的重要分支，透過演算法與統計模型，使電腦能夠從資料中學習並自動改進性能。其主要類型包含監督式、非監督式及增強式學習，廣泛應用於金融、醫療、語言處理、影像辨識等領域，已成為驅動當代科技革新的核心技術。
+
+---
+
+### Lab 19: **Simplified Language and Readability Enhancement**
+
+**Prompt:**  
+「請將以下句子以更簡單的語言改寫：『深度學習是一種複雜的神經網絡技術，專門用於處理大量數據。』」
+
+**Educational Response:**  
+深度學習是一種用來分析大量資料的人工智慧技術。
+
+---
+
+### Lab 20: **Tone Comparison (Ironic vs Neutral)**
+
+**Prompt:**  
+「請比較諷刺語氣和中立語氣在解釋『氣候變化』問題時的差異。」
+
+**Educational Response:**  
+
+- **諷刺語氣：**  
+「當然，我們完全不用擔心全球變暖，畢竟我們只需要等著冰山融化，看看哪個城市先成為『新亞特蘭提斯』。」
+
+- **中立語氣：**  
+「氣候變化指的是全球溫度上升及氣候模式的顯著改變，其原因主要來自人類活動所排放的溫室氣體，進一步造成環境、生態與經濟的挑戰。」
+
+---
 
 # Lavel 3: Lab21 - Lab30
