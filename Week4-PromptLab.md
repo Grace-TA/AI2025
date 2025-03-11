@@ -23,6 +23,8 @@ Certainly! Here are the educationally structured labs for the provided prompts, 
 
 ---
 
+
+
 ### Lab 3: Translation and Localization  
 **Prompt:**  
 「請將這段話翻譯成英文:‘今天的天氣很好,我想去公園散步。’」  
@@ -446,3 +448,11 @@ Here are the educationally structured labs starting sequentially from Lab 21, ea
 最終結果：餐廳一天收入為5000元，一週收入為 **35000元**。
 
 ---
+
+# Prompt for Text to Image
+
+![image](https://github.com/user-attachments/assets/791037fe-27f2-4a13-9c0b-2bcfefe0b66d)
+
+![image](https://github.com/user-attachments/assets/7c872ad0-dba0-402e-828d-20f5cff97bcf)
+
+![image](https://github.com/user-attachments/assets/53a879d8-1d3b-41cd-bd02-8305cabd3216)
