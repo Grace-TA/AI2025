@@ -91,15 +91,6 @@ The weather is nice today; I'd like to take a walk in the park.
 
 ---  
 
-The above labs demonstrate key skills and best practices in **prompt engineering**, showcasing concise summarization, multilingual translation, information extraction, formal and informal tone adjustments, humor integration, and structured data handling.
-
-### Know-How: 
-```
-I will provide you 10 prompts, please create lab {sequencial number}: {key skill in prompt engineering}, and the provided prompt carefully then response the 10 prompts educationally one by one:
-"""
-add 10 class prompts
-"""
-```
 # Level 2: Lab11 - Lab20
 
 
