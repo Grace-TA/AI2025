@@ -14,7 +14,7 @@
 ![image](https://github.com/user-attachments/assets/f414c137-4fca-4f6b-931d-9f1aee36e2f4)
 
 
-## Step 3: Add the text “我愛台北大學” and Change the sky color to blue
+## Step 3: Add the text “我愛台北大學” and change the sky color to blue
 
 ### “我愛台北大學”
 
