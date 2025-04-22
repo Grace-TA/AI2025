@@ -24,6 +24,6 @@
 
 ### Blue Sky
 
-> Please keep everything completely and change the sky to blue naturaly, all right?
+> Please keep everything completely and change the sky to blue naturally, all right?
 
 ![image](https://github.com/user-attachments/assets/772870fd-2060-4050-ac44-8b4d7b8d1a4a)
