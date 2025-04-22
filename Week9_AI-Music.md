@@ -23,3 +23,4 @@
 https://www.youtube.com/watch?v=4QjTIfRyzI4&t=5s
 
 http://img.youtube.com/vi/4QjTIfRyzI4&t/hqdefault.jpg)](https://www.youtube.com/watch?v=4QjTIfRyzI4&t
+[![Let's Learn Git Together](http://img.youtube.com/vi/4QjTIfRyzI4&t/hqdefault.jpg)](https://www.youtube.com/watch?v=4QjTIfRyzI4&t)
