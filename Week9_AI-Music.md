@@ -15,3 +15,8 @@
 ## C. Application & Demo: HCI 2020 Final Term Project: Embracer APP Prototype with BK Music and Ending Music
 
 [![Let's Learn Git Together](http://img.youtube.com/vi/GW8laTu9x_k/0.jpg)](http://www.youtube.com/watch?v=GW8laTu9x_k "Let's Learn Git Together")
+
+## D. Test
+
+[![Let's Learn Git Together](http://img.youtube.com/vi/4QjTIfRyzI4&t/0.jpg)](http://www.youtube.com/watch?v=4QjTIfRyzI4&t"Let's Learn Git Together")
+https://www.youtube.com/watch?v=4QjTIfRyzI4&t=5s
